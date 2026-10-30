@@ -1,0 +1,194 @@
+{
+ "work": "閑月和歌集（断簡）",
+ "work_id": "nijl-kangetsu-wakashu-dankan",
+ "repo": "kumoi-no-fumigura/kangetsu-wakashu-dankan",
+ "yomi": "かんげつわかしゅう（だんかん）",
+ "category": "私撰集",
+ "kind": "prose",
+ "description": {
+  "kind": "私撰集",
+  "era": "鎌倉後期",
+  "author": "源承撰とされる",
+  "desc": "鎌倉後期の私撰集『閑月和歌集』の断簡で、掛幅に仕立てられた一葉に、冬の歌と蓮生法師の釈教歌などわずかな歌を書く。歌の数は二、三首にとどまる。底本は国文学研究資料館所蔵の写本一幅。"
+ },
+ "editions": [
+  {
+   "pid": "nijl-200023758",
+   "title": "閑月和歌集（国文学研究資料館所蔵、写本 1 幅）",
+   "holder": "国文学研究資料館",
+   "form": "写本",
+   "viewer": "https://kokusho.nijl.ac.jp/biblio/200023758/",
+   "images": [
+    "https://kokusho.nijl.ac.jp/api/iiif/200023758/v4/NIIP/YO6-0047/YO6-0047-00001.tif",
+    "https://kokusho.nijl.ac.jp/api/iiif/200023758/v4/NIIP/YO6-0047/YO6-0047-00002.tif",
+    "https://kokusho.nijl.ac.jp/api/iiif/200023758/v4/NIIP/YO6-0047/YO6-0047-00003.tif"
+   ],
+   "url": "https://kokusho.nijl.ac.jp/biblio/200023758/",
+   "editor": "",
+   "series": "",
+   "publisher": "",
+   "year": null,
+   "pages": ""
+  }
+ ],
+ "status": "未校正",
+ "license": {
+  "text": "CC0 1.0"
+ },
+ "blocks": [
+  {
+   "id": "nijl-kangetsu-wakashu-dankan-0001",
+   "pid": "nijl-200023758",
+   "pages": [
+    1
+   ],
+   "text": "一冬ふかきやまはいつくも雪なれとふしいたねて名そふりにける観無量すの漢為煩悩賊の心を蓮生法師うらにすむあまのぬれきぬほしわひねさのみなけそおきつしら浪一為煩悩賊之所害者説清浄業如国法師一物作",
+   "poems": [
+    "1",
+    "2"
+   ]
+  },
+  {
+   "id": "nijl-kangetsu-wakashu-dankan-0002",
+   "pid": "nijl-200023758",
+   "pages": [
+    2
+   ],
+   "text": "ける一、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、〇〇一、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、〇〇冬ふかきやまはいつくも雪なれもふしのたかねの名そふりにけるいまりやんのうちうちうちいやさなから見つかありいまり見見て観無量すの経為煩恨賊の心を蓮生法師うらにすむあまのぬれきぬほしわひねさのみなはけそおきつしら浪為煩悩賊之可害者説清浄業和国法師ウン御座候",
+   "poems": [
+    "3",
+    "4",
+    "5"
+   ]
+  },
+  {
+   "id": "nijl-kangetsu-wakashu-dankan-0003",
+   "pid": "nijl-200023758",
+   "pages": [
+    3
+   ],
+   "text": "冬ふかきやまはいつくも雪なれとふしのたけねの名そふりにける四十八軒の無次中之主家見帰しのみをあり観無量すの経為煩憚財の心を蓮生法師うらにすむあまのぬれきぬほしわひぬさのみなわけそおきつしら浪為煩悩賊之所害者説清浄業如図法師",
+   "poems": [
+    "6",
+    "7"
+   ]
+  }
+ ],
+ "poems": [
+  {
+   "seq": "1",
+   "text": "冬ふかきやまはいつくも雪なれとふしいたねて名そふりにける",
+   "kana": "",
+   "speaker": "",
+   "page": 1,
+   "pid": "nijl-200023758",
+   "form": "短歌",
+   "genre": "",
+   "ban": "",
+   "side": "",
+   "dai": "",
+   "kotobagaki": ""
+  },
+  {
+   "seq": "2",
+   "text": "うらにすむあまのぬれきぬほしわひねさのみなけそおきつしら浪",
+   "kana": "",
+   "speaker": "",
+   "page": 1,
+   "pid": "nijl-200023758",
+   "form": "短歌",
+   "genre": "",
+   "ban": "",
+   "side": "",
+   "dai": "",
+   "kotobagaki": "観無量すの漢為煩悩賊の心を"
+  },
+  {
+   "seq": "3",
+   "text": "冬ふかきやまはいつくも雪なれもふしのたかねの名そふりにける",
+   "kana": "",
+   "speaker": "",
+   "page": 2,
+   "pid": "nijl-200023758",
+   "form": "短歌",
+   "genre": "",
+   "ban": "",
+   "side": "",
+   "dai": "一物作",
+   "kotobagaki": ""
+  },
+  {
+   "seq": "4",
+   "text": "いまりやんのうちうちうちいやさなから見つかありいまり見見て",
+   "kana": "",
+   "speaker": "",
+   "page": 2,
+   "pid": "nijl-200023758",
+   "form": "短歌",
+   "genre": "",
+   "ban": "",
+   "side": "",
+   "dai": "一物作",
+   "kotobagaki": ""
+  },
+  {
+   "seq": "5",
+   "text": "うらにすむあまのぬれきぬほしわひねさのみなはけそおきつしら浪",
+   "kana": "",
+   "speaker": "",
+   "page": 2,
+   "pid": "nijl-200023758",
+   "form": "短歌",
+   "genre": "",
+   "ban": "",
+   "side": "",
+   "dai": "一物作",
+   "kotobagaki": ""
+  },
+  {
+   "seq": "6",
+   "text": "冬ふかきやまはいつくも雪なれとふしのたけねの名そふりにける",
+   "kana": "",
+   "speaker": "御座候",
+   "page": 3,
+   "pid": "nijl-200023758",
+   "form": "短歌",
+   "genre": "",
+   "ban": "",
+   "side": "",
+   "dai": "為煩悩賊之ウン",
+   "kotobagaki": ""
+  },
+  {
+   "seq": "7",
+   "text": "うらにすむあまのぬれきぬほしわひぬさのみなわけそおきつしら浪",
+   "kana": "",
+   "speaker": "",
+   "page": 3,
+   "pid": "nijl-200023758",
+   "form": "短歌",
+   "genre": "",
+   "ban": "",
+   "side": "",
+   "dai": "為煩悩賊之ウン",
+   "kotobagaki": ""
+  }
+ ],
+ "catalog": {
+  "work_id": "nijl-kangetsu-wakashu-dankan",
+  "work": "閑月和歌集（断簡）",
+  "yomi": "かんげつわかしゅう（だんかん）",
+  "category": "私撰集",
+  "order": 0,
+  "era": "鎌倉後期",
+  "author": "",
+  "kind": "prose",
+  "blocks": 3,
+  "chars": 420,
+  "poems": 7,
+  "yaku": 0,
+  "editions": 1,
+  "updated": "2026-10-30",
+  "updated_at": "2026-10-30T16:09:25+09:00"
+ }
+}
