@@ -197,6 +197,10 @@
    "kotobagaki": ""
   }
  ],
+ "translation": {
+  "count": 3,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "nijl-kangetsu-wakashu-dankan",
   "work": "閑月和歌集（断簡）",
@@ -209,7 +213,7 @@
   "blocks": 3,
   "chars": 303,
   "poems": 7,
-  "yaku": 0,
+  "yaku": 3,
   "editions": 1,
   "updated": "2026-11-04",
   "updated_at": "2026-11-04T17:37:14+09:00"
